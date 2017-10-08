@@ -1,4 +1,4 @@
-<p align="center"><img src="git_Logo.png"></p>
+<p align="center"><img src="git_logo.png"></p>
 
 # Awesome GIT
 > Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
