@@ -1,9 +1,9 @@
 <p align="center"><img src="git_Logo.png"></p>
-<br>
+
 # Awesome GIT
 > Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 
-# Branching and Merging
+## Branching and Merging
 The Git feature that really makes it stand apart from nearly every other SCM out there is its branching model.
 
 Git allows and encourages you to have multiple local branches that can be entirely independent of each other. The creation, merging, and deletion of those lines of development takes seconds.
@@ -22,7 +22,7 @@ Notably, when you push to a remote repository, you do not have to push all of yo
 
 There are ways to accomplish some of this with other systems, but the work involved is much more difficult and error-prone. Git makes this process incredibly easy and it changes the way most developers work when they learn it.
 
-# Staging Area
+## Staging Area
 Unlike the other systems, Git has something called the "staging area" or "index". This is an intermediate area where commits can be formatted and reviewed before completing the commit.
 
 One thing that sets Git apart from other tools is that it's possible to quickly stage some of your files and commit them without committing all of the other modified files in your working directory or having to list them on the command line during the commit.
